@@ -12,10 +12,10 @@ body {
     width: 150px;
     border-radius: 80px;
 }
-.avatar:hover {
+/* .avatar:hover {
     width: 200px;
     border-radius: 100px;    
-}
+} */
 
 .card {
     width: 400px;
